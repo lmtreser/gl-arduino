@@ -1,0 +1,52 @@
+{
+   "t":"LECTURAS SENSOR DHT11",
+   "g":[
+      {
+         "t":"Sensor #1",
+         "d":[
+            {
+               "t":"Temperatura",
+               "v":"%1",
+	       "g":true,
+               "u":"°C",
+	       "w":"bar",
+               "min":0,
+               "max":100
+            },
+            {
+               "t":"Temperatura",
+               "v":"%2",
+	       "g":true,
+               "u":"°F",
+	       "w":"bar",
+               "min":0,
+               "max":212
+            },
+            {
+               "t":"Humedad",
+               "v":"%3",
+               "g":true,
+               "u":"%RH",
+	       "w":"bar",
+               "min":0,
+               "max":100
+            },
+            {
+               "t":"Sensación Térmica",
+               "v":"%4",
+               "u":"°C"
+            },
+            {
+               "t":"Sensación Térmica",
+               "v":"%5",
+               "u":"°F"
+            },
+            {
+               "t":"Tiempo",
+               "v":"%6",
+               "u":"mS"
+            }
+         ]
+      }
+   ]
+}

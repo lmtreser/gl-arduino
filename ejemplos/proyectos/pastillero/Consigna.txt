@@ -1,0 +1,22 @@
+A lo largo del módulo, hemos explicado cómo se arma el pastillero, así como el funcionamiento de la alarma, el motor y el LCD. También hemos explicado el empleo de nuevas sentencias y estructuras de programación, como analogWrite, analogRead y do-while, entre otras, así como el uso de la biblioteca del LCD y la implementación de funciones de manejo de tiempo.
+
+Ahora que has integrado todas las rutinas que permiten el funcionamiento del pastillero, realiza lo siguiente:
+
+1. Modifica el código del programa del pastillero de manera que, en la hora de la primera toma, establezcas un minuto más que el de la hora de reinicio, y en la hora de la segunda toma, un minuto adicional (por ejemplo, si la hora de reinicio es 8:34, la primera toma será a las 8:35, y la segunda, a las 8:36).
+
+2. Compila el programa y verifica que no tenga errores. En caso de que los tenga, corrígelos con base en la información indicada en la zona de mensajes.
+
+3. Sube el programa a la tarjeta Arduino.
+
+Luego de que oprimas el botón de reinicio o reset, graba un video de tres a cuatro minutos de duración donde se muestre claramente, visto por arriba, el carrusel del pastillero, el LCD, los leds, el botón y el buzzer. Asimismo, incluye una etiqueta entre el pastillero y la protoboard con tu nombre completo, con el fin de identificar tu trabajo.
+
+Tu video debe considerar los siguientes criterios:
+
+    Nombre del autor (que se legible a lo largo de todo el video)
+    Duración (que el video dure de 3 a 4 minutos)
+    Giro del carrusel (que sea visible el giro del carrusel de compartimento a compartimento)
+    Alarmas visual y auditiva (se distinga el funcionamiento de las alarmas).
+
+A partir de dichos criterios, deberás evaluar la actividad de tres participantes.
+
+Recuerda que antes de poder evaluar la actividad de alguno de tus compañeros, debes entregar tu video.

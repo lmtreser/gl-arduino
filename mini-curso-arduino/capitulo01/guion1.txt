@@ -1,0 +1,24 @@
+>>> D01
+
+MINI CURSO DE ARDUINO. 
+Este mini curso consta de cuatro capítulos donde aprenderás lo básico de electrónica y programación que sentará las bases para encarar un curso más profundo o empezar a crear tus proyectos.
+
+>>> D02
+
+INTRODUCCIÓN A ARDUINO.
+Arduino es una plataforma de desarrollo de código abierto integrada por hardware y software. Permite construir dispositivos digitales e interactivos que puedan detectar y controlar objetos del mundo real. Arduino se enfoca en acercar y facilitar el uso de la electrónica y programación de sistemas embebidos en proyectos multidisciplinarios.
+El universo Arduino está compuesto de multiples placas microcontroladas junto al software de desarrollo Arduino IDE. Éste último permite escribir el código, compilarlo y subirlo al microcontrolador. Además posee un gestor de librerías y de placas.
+
+>>> D03
+
+ANATOMÍA DE LA PLACA ARDUINO UNO.
+En este mini curso trabajaremos con la placa Arduino UNO, una de las más populares. El corazón de esta placa es el microcontrolador ATMEGA328P de la empresa ATMEL, ahora parte de Microchip, que es el encargado de recibir señales, procesarlas de acuerdo a un programa escrito por nosotros, y actuar en consecuencia.
+El microcontrolador necesita de circuitos auxiliares a saber:
+	- Fuente de alimentación. La tensión de trabajo es de 5V
+	- PUERTO USB cumple la función de entregar energía desde una computadora y de realiar la comunicación
+	- ENTRADA DE CORRIENTE CONTINUA. Este jack 
+
+>>> D04
+
+¿QUÉ NECESITO?
+	

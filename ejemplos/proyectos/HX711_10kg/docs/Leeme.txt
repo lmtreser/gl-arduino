@@ -1,0 +1,14 @@
+Arduino with Load Cell and HX711 Amplifier (Digital Scale)
+https://randomnerdtutorials.com/arduino-load-cell-hx711/
+
+4-Wire Load Cell (1/5/10/20/200kg) with HX711 and Arduino
+https://circuitjournal.com/four-wire-load-cell-with-HX711
+
+50kg Load Cells with HX711 and Arduino. 4x, 2x, 1x Diagrams.
+https://circuitjournal.com/50kg-load-cells-with-HX711
+
+Electronic Scales
+https://www.hackster.io/john-bradnam/electronic-scales-c97f1d
+
+Arduino library for the HX711 24-bit ADC for weight scales 
+https://github.com/olkal/HX711_ADC

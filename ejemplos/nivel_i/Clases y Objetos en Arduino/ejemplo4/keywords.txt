@@ -1,0 +1,13 @@
+#######################################
+# Syntax Coloring Map Ultrasonic
+#######################################
+# Datatypes (KEYWORD1)
+# Methods and Functions (KEYWORD2)
+# Constants (LITERAL1)
+#######################################
+
+Contador	KEYWORD1
+SetContador	KEYWORD2
+Incrementar	KEYWORD2
+GetCont	KEYWORD2
+Num_Objetos	KEYWORD2

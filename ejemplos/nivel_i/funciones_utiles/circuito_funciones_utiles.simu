@@ -1,0 +1,30 @@
+<circuit speed="1000000" reactStep="50" noLinAcc="5" type="simulide_0.4" animate="0">
+ 
+Arduino Uno-3: 
+<item labelrot="0" x="-472" rotation="90" itemtype="Arduino" Auto_Load="false" Logic_Symbol="false" objectName="Arduino Uno-3" Show_id="true" hflip="1" y="-448" eeprom="" valLabRot="0" valLabelx="0" Mhz="16" id="Arduino Uno-3" labely="-14" vflip="1" valLabely="0" Program="" Init_gdb="false" labelx="65"/>
+ 
+AudioOut-2: 
+<item x="-380" Buzzer="false" labelx="-20" labelrot="0" valLabelx="0" rotation="-90" id="AudioOut-2" valLabely="0" y="-464" Impedance="8" Show_id="false" labely="-36" hflip="-1" itemtype="AudioOut" vflip="1" objectName="AudioOut-2" valLabRot="0"/>
+ 
+Potentiometer-1: 
+<item labelrot="0" x="-272" rotation="90" itemtype="Potentiometer" Value_Ohm="5000" objectName="Potentiometer-1" Show_id="false" hflip="1" y="-216" Resistance="10" valLabRot="0" valLabelx="-9" Show_res="true" Unit=" kΩ" id="Potentiometer-1" labely="-40" vflip="1" valLabely="-42" labelx="-16"/>
+ 
+Connector-4: 
+<item labelrot="0" pointList="-380,-448,-380,-436,-416,-436,-416,-408" x="-380" rotation="0" itemtype="Connector" enodeid="enode-4" objectName="Connector-4" Show_id="false" hflip="1" y="-448" endpinid="Arduino Uno-3-GND0" valLabRot="0" valLabelx="0" id="Connector-4" labely="-24" vflip="1" valLabely="0" labelx="-16" startpinid="AudioOut-2-rPin"/>
+ 
+Connector-5: 
+<item labelrot="0" pointList="-372,-448,-372,-436,-320,-436,-320,-408" x="-372" rotation="0" itemtype="Connector" enodeid="enode-5" objectName="Connector-5" Show_id="false" hflip="1" y="-448" endpinid="Arduino Uno-3-PD3" valLabRot="0" valLabelx="0" id="Connector-5" labely="-24" vflip="1" valLabely="0" labelx="-16" startpinid="AudioOut-2-lPin"/>
+ 
+Connector-6: 
+<item labelrot="0" pointList="-288,-216,-336,-216,-336,-264" x="-288" rotation="0" itemtype="Connector" enodeid="enode-6" objectName="Connector-6" Show_id="false" hflip="1" y="-216" endpinid="Arduino Uno-3-PC0" valLabRot="0" valLabelx="0" id="Connector-6" labely="-24" vflip="1" valLabely="0" labelx="-16" startpinid="Potentiometer-1-PinM"/>
+ 
+Connector-7: 
+<item labelrot="0" pointList="-272,-232,-272,-240,-360,-240,-360,-264" x="-272" rotation="0" itemtype="Connector" enodeid="enode-7" objectName="Connector-7" Show_id="false" hflip="1" y="-232" endpinid="Arduino Uno-3-GND1" valLabRot="0" valLabelx="0" id="Connector-7" labely="-24" vflip="1" valLabely="0" labelx="-16" startpinid="Potentiometer-1-PinA"/>
+ 
+Connector-8: 
+<item labelrot="0" pointList="-376,-264,-376,-192,-272,-192,-272,-200" x="-376" rotation="0" itemtype="Connector" enodeid="enode-8" objectName="Connector-8" Show_id="false" hflip="1" y="-264" endpinid="Potentiometer-1-PinB" valLabRot="0" valLabelx="0" id="Connector-8" labely="-24" vflip="1" valLabely="0" labelx="-16" startpinid="Arduino Uno-3-V5V"/>
+ 
+PlotterWidget: 
+<item childrenRect="" cursor="" modal="false" windowOpacity="1" frameSize="" acceptDrops="false" styleSheet="" windowModality="0" minimumHeight="200" windowTitle="" childrenRegion="" windowModified="false" frameGeometry="" rect="" maximumWidth="1000" sizePolicy="" toolTipDuration="-1" visible="false" maximized="false" fullScreen="false" pos="" focusPolicy="0" statusTip="" minimized="false" sizeHint="" Scale="1" maximumHeight="200" updatesEnabled="true" isActiveWindow="true" itemtype="Plotter" height="200" palette="" minimumSize="" focus="false" sizeIncrement="" y="0" autoFillBackground="false" minimumWidth="200" x="0" accessibleDescription="" contextMenuPolicy="1" MinVolt="-500" normalGeometry="" mouseTracking="false" MaxVolt="500" whatsThis="" toolTip="" size="" minimumSizeHint="" geometry="" Tracks="1" font="Ubuntu,11,-1,5,50,0,0,0,0,0" locale="" width="200" objectName="PlotterWidget" enabled="true" accessibleName="" inputMethodHints="0" baseSize="" maximumSize="" layoutDirection="0" windowIcon="" windowFilePath="" tabletTracking="false" windowIconText=""/>
+ 
+</circuit>

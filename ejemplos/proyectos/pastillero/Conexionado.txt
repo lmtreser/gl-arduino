@@ -1,0 +1,6 @@
+Conexiones
+
+Buzzer: 15 (A1)
+LED: 16 (A2)
+
+

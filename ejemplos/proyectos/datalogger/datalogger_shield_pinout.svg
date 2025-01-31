@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="datalogger_shield_pinout.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5251403"
+     inkscape:cx="480.28369"
+     inkscape:cy="459.30201"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="208.39308"
+       y="359.57419"
+       width="358.01701"
+       height="206.83585"
+       id="rect5834" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.274677;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect846"
+       width="94.725327"
+       height="54.725323"
+       x="55.137337"
+       y="95.137337" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.3903212,2.6996991)"
+       id="text5832"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5834);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="208.39258"
+         y="374.49409"
+         id="tspan66064"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan66062">RTC DS1307            I2C (0x68) 
+</tspan></tspan><tspan
+         x="208.39258"
+         y="395.2577"
+         id="tspan66068"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan66066">LCD PCF8574A:      I2C (0x27)
+</tspan></tspan><tspan
+         x="208.39258"
+         y="416.02132"
+         id="tspan66072"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan66070">SD CARD:                 SPI, SS en el pin D10 
+</tspan></tspan><tspan
+         x="208.39258"
+         y="436.78493"
+         id="tspan66076"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan66074">DHT11:                      Pin D2
+</tspan></tspan><tspan
+         x="208.39258"
+         y="457.54854"
+         id="tspan66080"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan66078">LED:                            Pin D3
+</tspan></tspan><tspan
+         x="208.39258"
+         y="478.31215"
+         id="tspan66084"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan66082">Pulsador:                  Pin D4, activo HIGH
+</tspan></tspan><tspan
+         x="208.39258"
+         y="499.07576"
+         id="tspan66088"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan66086">RS485 RO:                Pin D5 
+</tspan></tspan><tspan
+         x="208.39258"
+         y="519.83937"
+         id="tspan66092"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan66090">RS485 DI:                  Pin D6
+</tspan></tspan><tspan
+         x="208.39258"
+         y="540.60298"
+         id="tspan66096"><tspan
+           style="font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan66094">RS485 RE/DE:          Pin D7, RX LOW y TX HIGH</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="81.648705"
+       y="100.04653"
+       id="text26920"><tspan
+         sodipodi:role="line"
+         id="tspan26918"
+         style="stroke-width:0.264583"
+         x="81.648705"
+         y="100.04653">  </tspan></text>
+  </g>
+</svg>
